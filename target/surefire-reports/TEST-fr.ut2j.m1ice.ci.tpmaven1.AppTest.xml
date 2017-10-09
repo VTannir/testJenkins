@@ -18,7 +18,7 @@
     <property name="user.country" value="FR"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_101\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\Vincent\AppData\Local\Temp\surefire8340191817003122060\surefirebooter135336894559983013.jar C:\Users\Vincent\AppData\Local\Temp\surefire8340191817003122060 2017-10-09T11-43-33_748-jvmRun1 surefire3559258591618216416tmp surefire_06885162350321583955tmp"/>
+    <property name="sun.java.command" value="C:\Users\Vincent\AppData\Local\Temp\surefire8935642941061766989\surefirebooter1899316685837560789.jar C:\Users\Vincent\AppData\Local\Temp\surefire8935642941061766989 2017-10-09T11-48-15_016-jvmRun1 surefire1154723651111493375tmp surefire_0719390415944962291tmp"/>
     <property name="surefire.test.class.path" value="C:\Users\Vincent\workspace\tpmaven1\target\test-classes;C:\Users\Vincent\workspace\tpmaven1\target\classes;C:\tmp\mavenrepository\junit\junit\3.8.1\junit-3.8.1.jar;C:\tmp\mavenrepository\org\swinglabs\swingx\1.6.1\swingx-1.6.1.jar;C:\tmp\mavenrepository\com\jhlabs\filters\2.0.235\filters-2.0.235.jar;C:\tmp\mavenrepository\org\swinglabs\swing-worker\1.1\swing-worker-1.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\Vincent"/>
@@ -31,7 +31,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\Vincent\AppData\Local\Temp\surefire8340191817003122060\surefirebooter135336894559983013.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Vincent\AppData\Local\Temp\surefire8935642941061766989\surefirebooter1899316685837560789.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_101\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_101\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
